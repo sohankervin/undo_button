@@ -16,4 +16,4 @@ tally.undo_button()
 result = tally.getValue()
 print "Result: " + str(result)
 
-tally.undo_button()
+
